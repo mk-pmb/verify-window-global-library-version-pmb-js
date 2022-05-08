@@ -1,0 +1,32 @@
+{ "name": "verify-window-global-library-version-pmb",
+  "version": "0.1.0",
+  "description": "Utility function to ensure window.Vue is compatible with my web app.",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/verify-window-global-library-version-pmb-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/verify-window-global-library-version-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/verify-window-global-library-version-pmb-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "vlv.js",
+  "scripts": { "test": "elp && nodemjs test/all.mjs" },
+  "directories": { "test": "test" },
+  "eslintConfig": { "extends": "nodejs-pmb" },
+
+  "dependencies": {},
+  "devDependencies": {
+  },
+  "peerDependencies": {
+  },
+
+
+  "engines": { "npm": ">=7.0.0", "node": ">=16.0.0" }
+}
