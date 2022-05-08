@@ -1,5 +1,5 @@
 { "name": "verify-window-global-library-version-pmb",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Utility function to ensure window.Vue is compatible with my web app.",
   "keywords": [],
 

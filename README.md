@@ -29,8 +29,8 @@ Usage
 
 ```javascript
 const needLibVer = require('verify-window-global-library-version-pmb');
-const Vue = needLibVer('vue', 2, 6);
-needLibVer('vuex', 3, 6);
+const Vue = needLibVer('Vue', 2, 6);
+needLibVer('Vuex', 3, 6);
 ```
 
 
